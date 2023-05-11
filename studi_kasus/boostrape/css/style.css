@@ -1,0 +1,14 @@
+
+.container-fluid{
+    min-height: 99.5vh;
+    background-color:rgb(67, 217, 222);
+    
+}
+#center{
+    height: 99.5vh;
+    display: flex;
+    align-items: center;
+}
+#box{
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.56);
+}

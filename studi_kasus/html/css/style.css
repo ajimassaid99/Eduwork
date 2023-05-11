@@ -1,0 +1,26 @@
+body{
+    font-family: 'century gothic';
+}
+.table{
+    margin-left: 15vw;
+    margin-top: 15vh;
+}
+.table td{
+    padding: 15px;
+}
+.title{
+    font-size: 42px;
+}
+.line{
+    background-color: yellow;
+    width: 120px;
+    height: 5px;
+}
+.clik{
+    background-color: yellow;
+    border: none;
+    padding: 6px 15px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
